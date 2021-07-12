@@ -2,3 +2,10 @@
 /_distro
 /_pgbackup
 /_pginfo
+
+# C extensions
+*.so
+*.o
+
+# Java extensions
+*.class
